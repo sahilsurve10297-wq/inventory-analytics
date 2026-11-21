@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,region,warehouse_capacity,warehouse_type
+WH-001,North Central Fulfillment,Chicago,Midwest,120000,Fulfillment Center
+WH-002,East Coast Mega Hub,Newark,Northeast,145000,Fulfillment Center
+WH-003,West Coast Gateway,Ontario,West,110000,Regional Hub
+WH-004,Southern Distribution,Dallas,South,95000,Distribution Center
+WH-005,Southeast Regional Depot,Atlanta,Southeast,85000,Distribution Center

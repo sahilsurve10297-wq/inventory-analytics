@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,unit_cost,selling_price,reorder_level,safety_stock,lead_time_days,supplier_id
+PRD-0001,SoundCoreX Core Soundbar 001,Electronics,Audio & Headphones,SoundCoreX,110.06,161.16,29,12,12,SUP-012
+PRD-0002,HearthCraft Core Air Fryer 002,Home & Kitchen,Small Appliances,HearthCraft,112.73,178.42,48,19,9,SUP-015
+PRD-0003,UrbanWeave Elite Performance Hoodie 003,Apparel & Footwear,Athletic Wear,UrbanWeave,26.18,39.46,30,12,8,SUP-018
+PRD-0004,SummitGear Core Kettlebell 004,Sports & Outdoors,Fitness Equipment,SummitGear,141.93,227.64,59,23,14,SUP-017
+PRD-0005,ClearLine Smart Standing Desk Mat 005,Office & Stationery,Ergonomic Furniture,ClearLine,73.25,109.62,29,12,5,SUP-001
+PRD-0006,GlowLab Pro Omega-3 Softgels 006,Health & Personal Care,Vitamins & Supplements,GlowLab,11.32,18.89,80,31,17,SUP-028
+PRD-0007,VoltEdge Studio LED Strip 007,Electronics,Smart Home,VoltEdge,220.97,307.09,25,12,10,SUP-024
+PRD-0008,LuminaHome Classic Cast Iron Skillet 008,Home & Kitchen,Cookware,LuminaHome,23.53,37.71,24,12,9,SUP-021
+PRD-0009,FlexFit Eco Windbreaker 009,Apparel & Footwear,Outerwear,FlexFit,70.71,118.3,22,12,4,SUP-005
+PRD-0010,IronCore Max Camp Lantern 010,Sports & Outdoors,Camping Gear,IronCore,76.61,106.11,31,12,5,SUP-011
+PRD-0011,ErgoDesk Prime Planner Pad 011,Office & Stationery,Paper & Notebooks,ErgoDesk,46.94,86.19,40,16,8,SUP-021
+PRD-0012,BioBalance Air Sonic Toothbrush 012,Health & Personal Care,Personal Grooming,BioBalance,23.52,36.64,54,21,15,SUP-014
+PRD-0013,NexaTech Compact Wireless Mouse 013,Electronics,Computer Accessories,NexaTech,195.87,260.06,67,26,13,SUP-010
+PRD-0014,LuminaHome Eco Vacuum Seal Bags 014,Home & Kitchen,Storage & Organization,LuminaHome,67.31,105.65,33,13,7,SUP-005
+PRD-0015,UrbanWeave Ultra Cross Trainer 015,Apparel & Footwear,Running Shoes,UrbanWeave,18.33,31.11,22,12,8,SUP-013
+PRD-0016,IronCore Max Bike Helmet 016,Sports & Outdoors,Cycling Accessories,IronCore,113.2,160.54,56,22,13,SUP-009
+PRD-0017,ErgoDesk Classic Pen Caddy 017,Office & Stationery,Desk Organizers,ErgoDesk,9.51,17.42,43,17,8,SUP-018
+PRD-0018,GlowLab Pro Hyaluronic Serum 018,Health & Personal Care,Skincare,GlowLab,35.74,64.13,64,25,15,SUP-014
+PRD-0019,NexaTech Eco Soundbar 019,Electronics,Audio & Headphones,NexaTech,122.81,174.46,23,12,13,SUP-009
+PRD-0020,PureNest Classic Electric Kettle 020,Home & Kitchen,Small Appliances,PureNest,126.71,177.28,28,12,14,SUP-010
+PRD-0021,UrbanWeave Max Compression Tee 021,Apparel & Footwear,Athletic Wear,UrbanWeave,67.75,122.86,26,12,13,SUP-009
+PRD-0022,AeroSport Flex Yoga Mat 022,Sports & Outdoors,Fitness Equipment,AeroSport,55.29,75.47,26,12,7,SUP-005
+PRD-0023,ErgoDesk Core Monitor Arm 023,Office & Stationery,Ergonomic Furniture,ErgoDesk,54.84,100.29,83,32,21,SUP-025
+PRD-0024,GlowLab Prime Vitamin D3 Drops 024,Health & Personal Care,Vitamins & Supplements,GlowLab,61.35,98.08,42,16,12,SUP-016
+PRD-0025,OptiGear Active Smart Plug 025,Electronics,Smart Home,OptiGear,245.84,373.8,87,34,22,SUP-027
+PRD-0026,LuminaHome Eco Nonstick Pan Set 026,Home & Kitchen,Cookware,LuminaHome,110.82,175.27,22,12,9,SUP-013
+PRD-0027,UrbanWeave Air Fleece Pullover 027,Apparel & Footwear,Outerwear,UrbanWeave,89.95,141.27,39,15,7,SUP-008
+PRD-0028,TrailBlaze Prime Dome Tent 028,Sports & Outdoors,Camping Gear,TrailBlaze,47.04,74.78,39,15,17,SUP-022
+PRD-0029,ErgoDesk Smart Sticky Note Pack 029,Office & Stationery,Paper & Notebooks,ErgoDesk,155.66,253.0,22,12,10,SUP-024
+PRD-0030,VitalPure Essential Electric Trimmer 030,Health & Personal Care,Personal Grooming,VitalPure,15.51,29.57,59,23,15,SUP-030
+PRD-0031,OptiGear Max Laptop Stand 031,Electronics,Computer Accessories,OptiGear,83.93,125.65,31,12,6,SUP-018
+PRD-0032,ChefLine Core Modular Bin 032,Home & Kitchen,Storage & Organization,ChefLine,27.84,46.62,22,12,4,SUP-003
+PRD-0033,StridePro Eco Carbon Tempo Shoe 033,Apparel & Footwear,Running Shoes,StridePro,91.45,145.7,22,12,11,SUP-020
+PRD-0034,AeroSport Studio U-Lock 034,Sports & Outdoors,Cycling Accessories,,120.7,168.06,41,16,12,SUP-022
+PRD-0035,WorkFlow Active Mesh Tray 035,Office & Stationery,Desk Organizers,WorkFlow,149.69,263.75,43,17,8,SUP-018
+PRD-0036,GlowLab Core Hyaluronic Serum 036,Health & Personal Care,Skincare,GlowLab,14.22,28.41,29,12,11,SUP-008
+PRD-0037,SoundCoreX Eco Soundbar 037,Electronics,Audio & Headphones,SoundCoreX,280.98,405.41,32,12,10,SUP-019
+PRD-0038,PureNest Prime Espresso Maker 038,Home & Kitchen,Small Appliances,PureNest,95.45,157.84,28,12,10,SUP-009
+PRD-0039,NorthPeak Compact Yoga Leggings 039,Apparel & Footwear,Athletic Wear,NorthPeak,80.33,120.71,44,17,10,SUP-023
+PRD-0040,TrailBlaze Classic Adjustable Dumbbell 040,Sports & Outdoors,Fitness Equipment,TrailBlaze,151.6,223.48,97,38,16,SUP-028
+PRD-0041,PaperCraft Essential Mesh Office Chair 041,Office & Stationery,Ergonomic Furniture,PaperCraft,29.66,43.07,22,12,11,SUP-009
+PRD-0042,VitalPure Essential Omega-3 Softgels 042,Health & Personal Care,Vitamins & Supplements,VitalPure,11.04,20.48,53,21,16,SUP-016
+PRD-0043,OptiGear Smart Thermostat Hub 043,Electronics,Smart Home,OptiGear,283.13,427.47,33,13,15,SUP-016
+PRD-0044,HearthCraft Prime Cast Iron Skillet 044,Home & Kitchen,Cookware,HearthCraft,43.92,68.07,25,12,14,SUP-029
+PRD-0045,StridePro Classic Windbreaker 045,Apparel & Footwear,Outerwear,StridePro,23.13,43.18,73,28,12,SUP-016
+PRD-0046,TrailBlaze Max Dome Tent 046,Sports & Outdoors,Camping Gear,TrailBlaze,154.66,264.63,65,25,12,SUP-008
+PRD-0047,PaperCraft Air Copy Paper Ream 047,Office & Stationery,Paper & Notebooks,PaperCraft,125.97,183.99,39,15,10,SUP-020
+PRD-0048,ZenCare Active Shave Kit 048,Health & Personal Care,Personal Grooming,ZenCare,34.38,59.51,28,12,10,SUP-021
+PRD-0049,VoltEdge Essential Mechanical Keyboard 049,Electronics,Computer Accessories,VoltEdge,147.98,198.71,26,12,7,SUP-015
+PRD-0050,PureNest Air Pantry Container Set 050,Home & Kitchen,Storage & Organization,PureNest,60.57,96.31,49,19,8,SUP-008
+PRD-0051,UrbanWeave Prime Cross Trainer 051,Apparel & Footwear,Running Shoes,UrbanWeave,41.27,70.89,47,18,10,SUP-015
+PRD-0052,AeroSport Compact Frame Pump 052,Sports & Outdoors,Cycling Accessories,AeroSport,104.3,167.21,22,12,3,SUP-003
+PRD-0053,WorkFlow Compact Pen Caddy 053,Office & Stationery,Desk Organizers,WorkFlow,138.55,202.21,25,12,12,SUP-021
+PRD-0054,ZenCare Flex Clay Cleanser 054,Health & Personal Care,Skincare,ZenCare,12.82,26.43,75,29,12,SUP-022
+PRD-0055,VoltEdge Core Studio Headphones 055,Electronics,Audio & Headphones,VoltEdge,255.87,382.44,29,12,11,SUP-018
+PRD-0056,LuminaHome Max Blender 056,Home & Kitchen,Small Appliances,LuminaHome,24.17,37.84,27,12,6,SUP-006
+PRD-0057,StridePro Studio Training Shorts 057,Apparel & Footwear,Athletic Wear,StridePro,56.81,104.07,57,22,15,SUP-014
+PRD-0058,AeroSport Compact Kettlebell 058,Sports & Outdoors,Fitness Equipment,AeroSport,168.86,236.05,22,12,8,SUP-024
+PRD-0059,ErgoDesk Flex Standing Desk Mat 059,Office & Stationery,Ergonomic Furniture,ErgoDesk,125.25,213.18,65,25,11,SUP-013
+PRD-0060,GlowLab Core Collagen Powder 060,Health & Personal Care,Vitamins & Supplements,GlowLab,23.42,40.25,29,12,13,SUP-016
+PRD-0061,OptiGear Essential Smart Plug 061,Electronics,Smart Home,OptiGear,154.18,213.31,49,19,12,SUP-029
+PRD-0062,ChefLine Active Dutch Oven 062,Home & Kitchen,Cookware,ChefLine,111.88,169.81,39,15,6,SUP-005
+PRD-0063,StridePro Max Windbreaker 063,Apparel & Footwear,Outerwear,StridePro,24.48,45.91,33,13,17,SUP-029
+PRD-0064,SummitGear Eco Camp Lantern 064,Sports & Outdoors,Camping Gear,SummitGear,129.15,174.99,26,12,4,SUP-003
+PRD-0065,ErgoDesk Smart Sticky Note Pack 065,Office & Stationery,Paper & Notebooks,ErgoDesk,74.12,113.84,69,27,13,SUP-014
+PRD-0066,BioBalance Studio Electric Trimmer 066,Health & Personal Care,Personal Grooming,BioBalance,64.83,131.44,46,18,8,SUP-021
+PRD-0067,VoltEdge Ultra Wireless Mouse 067,Electronics,Computer Accessories,VoltEdge,221.38,322.23,107,42,18,SUP-030
+PRD-0068,HearthCraft Core Modular Bin 068,Home & Kitchen,Storage & Organization,,42.83,59.96,46,18,20,SUP-026
+PRD-0069,StridePro Prime Road Cushioned Shoe 069,APPAREL & FOOTWEAR,Running Shoes,StridePro,17.89,25.99,28,12,6,SUP-020
+PRD-0070,TrailBlaze Active Frame Pump 070,Sports & Outdoors,Cycling Accessories,TrailBlaze,56.65,95.73,38,15,7,SUP-008
+PRD-0071,ClearLine Prime Mesh Tray 071,Office & Stationery,Desk Organizers,ClearLine,113.51,201.72,26,12,10,SUP-024
+PRD-0072,VitalPure Ultra Hyaluronic Serum 072,Health & Personal Care,Skincare,VitalPure,36.76,71.58,80,31,14,SUP-017
+PRD-0073,SoundCoreX Essential Soundbar 073,Electronics,Audio & Headphones,SoundCoreX,81.95,110.89,31,12,5,SUP-023
+PRD-0074,ChefLine Air Blender 074,Home & Kitchen,Small Appliances,ChefLine,18.98,29.72,26,12,4,SUP-001
+PRD-0075,NorthPeak Max Training Shorts 075,Apparel & Footwear,Athletic Wear,NorthPeak,22.34,34.44,28,12,7,SUP-006
+PRD-0076,AeroSport Studio Yoga Mat 076,Sports & Outdoors,Fitness Equipment,AeroSport,121.1,191.21,62,24,10,SUP-014
+PRD-0077,PaperCraft Smart Monitor Arm 077,Office & Stationery,Ergonomic Furniture,PaperCraft,113.77,192.52,22,12,8,SUP-018
+PRD-0078,BioBalance Elite Electrolyte Mix 078,Health & Personal Care,Vitamins & Supplements,BioBalance,31.03,55.37,22,12,2,SUP-004
+PRD-0079,OptiGear Smart Smart Plug 079,Electronics,Smart Home,OptiGear,151.23,218.52,44,17,13,SUP-010
+PRD-0080,ChefLine Essential Nonstick Pan Set 080,Home & Kitchen,Cookware,ChefLine,39.86,62.02,22,12,10,SUP-019
+PRD-0081,NorthPeak Elite Fleece Pullover 081,Apparel & Footwear,Outerwear,NorthPeak,33.05,57.38,34,13,7,SUP-015
+PRD-0082,SummitGear Studio Camp Lantern 082,Sports & Outdoors,Camping Gear,SummitGear,123.69,182.63,46,18,11,SUP-008
+PRD-0083,WorkFlow Elite Copy Paper Ream 083,Office & Stationery,Paper & Notebooks,WorkFlow,61.54,100.36,77,30,13,SUP-019
+PRD-0084,ZenCare Ultra Shave Kit 084,Health & Personal Care,Personal Grooming,ZenCare,36.71,66.52,35,14,12,SUP-009
+PRD-0085,NexaTech Core Mechanical Keyboard 085,Electronics,Computer Accessories,NexaTech,59.18,76.9,22,12,10,SUP-015
+PRD-0086,LuminaHome Ultra Pantry Container Set 086,Home & Kitchen,Storage & Organization,LuminaHome,54.77,77.26,67,26,13,SUP-022
+PRD-0087,FlexFit Pro Road Cushioned Shoe 087,Apparel & Footwear,Running Shoes,FlexFit,83.52,136.65,97,38,22,SUP-025
+PRD-0088,TrailBlaze Max Bike Helmet 088,Sports & Outdoors,Cycling Accessories,TrailBlaze,77.12,133.68,37,14,7,SUP-003
+PRD-0089,ErgoDesk Smart File Sorter 089,Office & Stationery,Desk Organizers,ErgoDesk,114.63,180.49,22,12,12,SUP-021
+PRD-0090,ZenCare Max Hyaluronic Serum 090,Health & Personal Care,Skincare,ZenCare,37.93,60.62,67,26,12,SUP-022
+PRD-0091,OptiGear Active Soundbar 091,Electronics,Audio & Headphones,OptiGear,272.53,421.71,51,20,14,SUP-017
+PRD-0092,HearthCraft Core Espresso Maker 092,Home & Kitchen,Small Appliances,HearthCraft,22.25,35.92,23,12,5,SUP-002
+PRD-0093,FlexFit Essential Training Shorts 093,Apparel & Footwear,Athletic Wear,FlexFit,87.57,128.93,26,12,8,SUP-006
+PRD-0094,TrailBlaze Essential Resistance Band Kit 094,Sports & Outdoors,Fitness Equipment,TrailBlaze,113.0,174.85,22,12,4,SUP-001
+PRD-0095,ClearLine Core Footrest 095,Office & Stationery,Ergonomic Furniture,ClearLine,105.97,180.32,22,12,10,SUP-020
+PRD-0096,BioBalance Max Vitamin D3 Drops 096,Health & Personal Care,Vitamins & Supplements,BioBalance,38.75,65.99,79,31,21,SUP-028
+PRD-0097,NexaTech Air LED Strip 097,Electronics,Smart Home,NexaTech,173.91,265.31,97,38,17,SUP-026
+PRD-0098,ChefLine Classic Nonstick Pan Set 098,Home & Kitchen,Cookware,ChefLine,75.85,116.51,40,16,12,SUP-016
+PRD-0099,FlexFit Prime Insulated Vest 099,Apparel & Footwear,Outerwear,FlexFit,29.2,47.29,22,12,10,SUP-019
+PRD-0100,TrailBlaze Flex Insulated Flask 100,Sports & Outdoors,Camping Gear,TrailBlaze,90.61,133.47,22,12,7,SUP-005
+PRD-0101,ErgoDesk Smart Hardcover Journal 101,Office & Stationery,Paper & Notebooks,ErgoDesk,103.6,190.81,60,23,16,SUP-022
+PRD-0102,ZenCare Active Shave Kit 102,Health & Personal Care,Personal Grooming,ZenCare,59.49,114.96,69,27,13,SUP-009
+PRD-0103,SoundCoreX Prime USB-C Hub 103,Electronics,Computer Accessories,SoundCoreX,241.06,337.2,26,12,5,SUP-004
+PRD-0104,ChefLine Elite Spice Rack 104,Home & Kitchen,Storage & Organization,ChefLine,138.03,200.26,114,44,22,SUP-025
+PRD-0105,UrbanWeave Classic Trail Runner 105,Apparel & Footwear,Running Shoes,UrbanWeave,18.28,33.61,44,17,7,SUP-004
+PRD-0106,IronCore Core LED Tail Light 106,SPORTS & OUTDOORS,Cycling Accessories,IronCore,176.42,267.21,22,12,6,SUP-003
+PRD-0107,WorkFlow Studio Pen Caddy 107,Office & Stationery,Desk Organizers,WorkFlow,148.4,262.69,61,24,19,SUP-025
+PRD-0108,VitalPure Active Hyaluronic Serum 108,HEALTH & PERSONAL CARE,Skincare,VitalPure,14.23,27.11,48,19,9,SUP-023
+PRD-0109,VoltEdge Core Bluetooth Speaker 109,Electronics,Audio & Headphones,VoltEdge,261.26,337.87,46,18,10,SUP-023
+PRD-0110,HearthCraft Compact Electric Kettle 110,Home & Kitchen,Small Appliances,HearthCraft,12.58,19.25,22,12,11,SUP-008
+PRD-0111,FlexFit Elite Performance Hoodie 111,Apparel & Footwear,Athletic Wear,FlexFit,68.73,107.83,71,28,23,SUP-027
+PRD-0112,AeroSport Air Yoga Mat 112,Sports & Outdoors,Fitness Equipment,AeroSport,66.43,105.37,33,13,12,SUP-014
+PRD-0113,PaperCraft Prime Footrest 113,Office & Stationery,Ergonomic Furniture,PaperCraft,19.06,29.62,38,15,7,SUP-006
+PRD-0114,ZenCare Studio Collagen Powder 114,Health & Personal Care,Vitamins & Supplements,ZenCare,24.89,43.43,47,18,11,SUP-017
+PRD-0115,VoltEdge Active Thermostat Hub 115,Electronics,Smart Home,VoltEdge,200.59,278.01,54,21,14,SUP-022
+PRD-0116,LuminaHome Classic Cast Iron Skillet 116,Home & Kitchen,Cookware,LuminaHome,58.77,80.72,22,12,6,SUP-011
+PRD-0117,NorthPeak Elite Windbreaker 117,Apparel & Footwear,Outerwear,NorthPeak,42.46,70.49,57,22,11,SUP-020
+PRD-0118,AeroSport Eco Camp Lantern 118,Sports & Outdoors,Camping Gear,AeroSport,64.1,109.53,30,12,10,SUP-012
+PRD-0119,ClearLine Prime Planner Pad 119,Office & Stationery,Paper & Notebooks,ClearLine,120.32,200.43,42,16,15,SUP-016
+PRD-0120,ZenCare Core Electric Trimmer 120,Health & Personal Care,Personal Grooming,ZenCare,26.38,42.03,29,12,10,SUP-011
+PRD-0121,VoltEdge Studio Mechanical Keyboard 121,Electronics,Computer Accessories,VoltEdge,256.23,358.3,84,33,13,SUP-024
+PRD-0122,PureNest Studio Vacuum Seal Bags 122,Home & Kitchen,Storage & Organization,PureNest,116.27,193.69,28,12,12,SUP-009
+PRD-0123,StridePro Studio Road Cushioned Shoe 123,Apparel & Footwear,Running Shoes,StridePro,67.23,129.6,25,12,6,SUP-004
+PRD-0124,SummitGear Essential Bike Helmet 124,Sports & Outdoors,Cycling Accessories,SummitGear,173.48,241.35,24,12,8,SUP-009
+PRD-0125,PaperCraft Pro File Sorter 125,Office & Stationery,Desk Organizers,PaperCraft,85.48,131.7,23,12,10,SUP-014
+PRD-0126,VitalPure Flex SPF50 Moisturizer 126,Health & Personal Care,Skincare,VitalPure,11.45,21.97,31,12,11,SUP-014
+PRD-0127,SoundCoreX Classic Wireless Earbuds 127,Electronics,Audio & Headphones,SoundCoreX,25.49,33.4,22,12,9,SUP-013
+PRD-0128,LuminaHome Ultra Blender 128,Home & Kitchen,Small Appliances,LuminaHome,74.66,109.5,48,19,9,SUP-013
+PRD-0129,NorthPeak Core Performance Hoodie 129,Apparel & Footwear,Athletic Wear,NorthPeak,40.8,64.11,58,23,12,SUP-008
+PRD-0130,IronCore Classic Adjustable Dumbbell 130,Sports & Outdoors,Fitness Equipment,IronCore,71.58,123.27,23,12,5,SUP-015
+PRD-0131,ClearLine Max Mesh Office Chair 131,Office & Stationery,Ergonomic Furniture,ClearLine,13.3,19.45,22,12,4,SUP-005
+PRD-0132,BioBalance Prime Omega-3 Softgels 132,Health & Personal Care,Vitamins & Supplements,BioBalance,9.78,15.32,38,15,15,SUP-022
+PRD-0133,VoltEdge Studio Smart Plug 133,Electronics,Smart Home,VoltEdge,275.58,353.1,31,12,7,SUP-018
+PRD-0134,LuminaHome Elite Cast Iron Skillet 134,Home & Kitchen,Cookware,LuminaHome,110.94,182.99,54,21,9,SUP-009
+PRD-0135,UrbanWeave Elite Windbreaker 135,Apparel & Footwear,Outerwear,UrbanWeave,93.77,152.92,38,15,13,SUP-019
+PRD-0136,AeroSport Studio Insulated Flask 136,Sports & Outdoors,Camping Gear,AeroSport,115.32,165.66,41,16,14,SUP-016
+PRD-0137,ClearLine Ultra Sticky Note Pack 137,Office & Stationery,Paper & Notebooks,ClearLine,59.36,83.61,41,16,8,SUP-001
+PRD-0138,VitalPure Core Hair Dryer 138,Health & Personal Care,Personal Grooming,VitalPure,50.1,84.68,31,12,7,SUP-004
+PRD-0139,VoltEdge Ultra Laptop Stand 139,Electronics,Computer Accessories,VoltEdge,229.46,304.42,51,20,8,SUP-005
+PRD-0140,ChefLine Compact Modular Bin 140,Home & Kitchen,Storage & Organization,ChefLine,14.12,23.97,23,12,9,SUP-018
+PRD-0141,UrbanWeave Prime Trail Runner 141,Apparel & Footwear,Running Shoes,UrbanWeave,57.9,101.96,33,13,22,SUP-027
+PRD-0142,IronCore Elite U-Lock 142,Sports & Outdoors,Cycling Accessories,IronCore,65.75,106.22,29,12,20,SUP-030
+PRD-0143,WorkFlow Studio Mesh Tray 143,Office & Stationery,Desk Organizers,WorkFlow,140.58,212.86,49,19,12,SUP-007
+PRD-0144,ZenCare Eco SPF50 Moisturizer 144,Health & Personal Care,Skincare,ZenCare,46.62,90.23,42,16,8,SUP-023
+PRD-0145,NexaTech Active Wireless Earbuds 145,Electronics,Audio & Headphones,NexaTech,176.8,226.9,29,12,7,SUP-013
+PRD-0146,LuminaHome Elite Espresso Maker 146,Home & Kitchen,Small Appliances,LuminaHome,24.04,39.94,39,15,8,SUP-020
+PRD-0147,NorthPeak Essential Training Shorts 147,Apparel & Footwear,Athletic Wear,NorthPeak,29.28,45.38,103,40,17,SUP-029
+PRD-0148,AeroSport Compact Adjustable Dumbbell 148,Sports & Outdoors,Fitness Equipment,AeroSport,94.11,154.66,36,14,11,SUP-020
+PRD-0149,ErgoDesk Eco Mesh Office Chair 149,Office & Stationery,Ergonomic Furniture,ErgoDesk,118.59,207.81,23,12,10,SUP-023
+PRD-0150,ZenCare Air Collagen Powder 150,Health & Personal Care,Vitamins & Supplements,ZenCare,57.34,113.47,29,12,12,SUP-016
+PRD-0151,SoundCoreX Air Wi-Fi Camera 151,Electronics,Smart Home,SoundCoreX,313.87,433.71,47,18,8,SUP-001
+PRD-0152,ChefLine Flex Nonstick Pan Set 152,Home & Kitchen,Cookware,ChefLine,52.85,82.61,31,12,9,SUP-018
+PRD-0153,StridePro Flex Insulated Vest 153,Apparel & Footwear,Outerwear,StridePro,52.41,81.15,46,18,14,SUP-029
+PRD-0154,IronCore Air Dome Tent 154,Sports & Outdoors,Camping Gear,IronCore,44.39,72.08,31,12,5,SUP-002
+PRD-0155,PaperCraft Compact Hardcover Journal 155,Office & Stationery,Paper & Notebooks,PaperCraft,122.04,219.24,22,12,4,SUP-003
+PRD-0156,GlowLab Active Electric Trimmer 156,Health & Personal Care,Personal Grooming,GlowLab,37.75,67.23,22,12,11,SUP-014
+PRD-0157,VoltEdge Eco USB-C Hub 157,Electronics,Computer Accessories,VoltEdge,217.49,307.48,44,17,17,SUP-029
+PRD-0158,HearthCraft Essential Pantry Container Set 158,Home & Kitchen,Storage & Organization,HearthCraft,109.89,182.07,83,32,13,SUP-024
+PRD-0159,UrbanWeave Active Road Cushioned Shoe 159,Apparel & Footwear,Running Shoes,UrbanWeave,20.75,31.52,70,27,17,SUP-029
+PRD-0160,IronCore Elite Bike Helmet 160,Sports & Outdoors,Cycling Accessories,IronCore,155.02,247.52,25,12,10,SUP-013
+PRD-0161,WorkFlow Compact Cable Management Box 161,Office & Stationery,Desk Organizers,WorkFlow,137.2,228.15,24,12,7,SUP-005
+PRD-0162,ZenCare Core SPF50 Moisturizer 162,Health & Personal Care,Skincare,ZenCare,31.08,60.79,23,12,8,SUP-001
+PRD-0163,NexaTech Active Studio Headphones 163,Electronics,Audio & Headphones,NexaTech,289.36,378.22,26,12,4,SUP-004
+PRD-0164,PureNest Flex Air Fryer 164,Home & Kitchen,Small Appliances,PureNest,64.94,97.89,30,12,6,SUP-006
+PRD-0165,StridePro Core Performance Hoodie 165,Apparel & Footwear,Athletic Wear,StridePro,42.15,72.31,64,25,25,SUP-027
+PRD-0166,TrailBlaze Smart Adjustable Dumbbell 166,Sports & Outdoors,Fitness Equipment,TrailBlaze,170.28,290.36,31,12,8,SUP-001
+PRD-0167,ErgoDesk Eco Monitor Arm 167,Office & Stationery,Ergonomic Furniture,ErgoDesk,88.63,141.41,28,12,14,SUP-016
+PRD-0168,VitalPure Essential Collagen Powder 168,Health & Personal Care,Vitamins & Supplements,VitalPure,35.48,73.51,22,12,4,SUP-005
+PRD-0169,OptiGear Compact Smart Plug 169,Electronics,Smart Home,OptiGear,33.87,44.44,25,12,7,SUP-008
+PRD-0170,LuminaHome Prime Chef Knife 170,Home & Kitchen,Cookware,LuminaHome,71.52,106.58,34,13,15,SUP-016
+PRD-0171,FlexFit Active Rain Shell Jacket 171,Apparel & Footwear,Outerwear,FlexFit,74.33,125.2,139,54,23,SUP-025
+PRD-0172,TrailBlaze Max Sleeping Bag 172,sports & outdoors ,Camping Gear,TrailBlaze,26.12,38.84,31,12,7,SUP-002
+PRD-0173,WorkFlow Air Copy Paper Ream 173,Office & Stationery,Paper & Notebooks,WorkFlow,38.64,70.16,51,20,11,SUP-024
+PRD-0174,GlowLab Air Electric Trimmer 174,Health & Personal Care,Personal Grooming,GlowLab,64.62,107.82,77,30,21,SUP-027
+PRD-0175,OptiGear Ultra Mechanical Keyboard 175,Electronics,Computer Accessories,OptiGear,211.52,293.19,22,12,4,SUP-005
+PRD-0176,LuminaHome Elite Vacuum Seal Bags 176,Home & Kitchen,Storage & Organization,LuminaHome,71.02,112.28,34,13,9,SUP-020
+PRD-0177,UrbanWeave Active Carbon Tempo Shoe 177,Apparel & Footwear,Running Shoes,UrbanWeave,29.18,52.2,22,12,10,SUP-011
+PRD-0178,AeroSport Active LED Tail Light 178,sports & outdoors ,Cycling Accessories,AeroSport,162.58,268.23,52,20,13,SUP-009
+PRD-0179,ClearLine Flex Mesh Tray 179,Office & Stationery,Desk Organizers,ClearLine,151.92,237.73,51,20,15,SUP-010
+PRD-0180,ZenCare Prime Clay Cleanser 180,Health & Personal Care,Skincare,ZenCare,49.03,88.52,59,23,17,SUP-022
+PRD-0181,VoltEdge Flex Studio Headphones 181,Electronics,Audio & Headphones,VoltEdge,145.41,203.4,22,12,6,SUP-011
+PRD-0182,HearthCraft Smart Blender 182,Home & Kitchen,Small Appliances,HearthCraft,95.91,151.73,33,13,11,SUP-010
+PRD-0183,FlexFit Essential Compression Tee 183,Apparel & Footwear,Athletic Wear,FlexFit,83.85,131.92,27,12,13,SUP-024
+PRD-0184,SummitGear Prime Resistance Band Kit 184,Sports & Outdoors,Fitness Equipment,SummitGear,40.46,59.21,72,28,12,SUP-009
+PRD-0185,PaperCraft Compact Footrest 185,Office & Stationery,Ergonomic Furniture,PaperCraft,114.01,208.5,36,14,14,SUP-017
+PRD-0186,ZenCare Smart Electrolyte Mix 186,Health & Personal Care,Vitamins & Supplements,ZenCare,26.27,54.79,67,26,14,SUP-016
+PRD-0187,NexaTech Pro LED Strip 187,Electronics,Smart Home,NexaTech,283.16,409.1,56,22,9,SUP-013
+PRD-0188,PureNest Core Dutch Oven 188,Home & Kitchen,Cookware,PureNest,53.24,82.02,64,25,14,SUP-022
+PRD-0189,FlexFit Classic Windbreaker 189,Apparel & Footwear,Outerwear,FlexFit,88.01,168.27,51,20,8,SUP-008
+PRD-0190,AeroSport Pro Camp Lantern 190,Sports & Outdoors,Camping Gear,AeroSport,141.88,234.82,22,12,4,SUP-004
+PRD-0191,PaperCraft Compact Copy Paper Ream 191,office & stationery ,Paper & Notebooks,PaperCraft,50.56,76.65,29,12,8,SUP-020
+PRD-0192,ZenCare Smart Electric Trimmer 192,Health & Personal Care,Personal Grooming,ZenCare,54.52,109.93,22,12,7,SUP-018
+PRD-0193,VoltEdge Classic Mechanical Keyboard 193,electronics ,Computer Accessories,VoltEdge,272.56,359.06,26,12,12,SUP-024
+PRD-0194,LuminaHome Ultra Pantry Container Set 194,Home & Kitchen,Storage & Organization,LuminaHome,139.82,198.18,41,16,12,SUP-029
+PRD-0195,NorthPeak Flex Cross Trainer 195,Apparel & Footwear,Running Shoes,NorthPeak,93.47,138.79,113,44,21,SUP-028
+PRD-0196,TrailBlaze Compact LED Tail Light 196,Sports & Outdoors,Cycling Accessories,TrailBlaze,161.35,260.64,56,22,10,SUP-014
+PRD-0197,PaperCraft Essential Mesh Tray 197,OFFICE & STATIONERY,Desk Organizers,PaperCraft,91.04,147.97,38,15,8,SUP-013
+PRD-0198,ZenCare Pro Night Cream 198,Health & Personal Care,Skincare,ZenCare,64.97,117.59,22,12,2,SUP-004
+PRD-0199,VoltEdge Active Studio Headphones 199,Electronics,Audio & Headphones,VoltEdge,161.06,224.63,57,22,12,SUP-010
+PRD-0200,HearthCraft Air Espresso Maker 200,Home & Kitchen,Small Appliances,HearthCraft,112.8,185.13,69,27,20,SUP-028
+PRD-0201,NorthPeak Smart Compression Tee 201,Apparel & Footwear,Athletic Wear,NorthPeak,79.11,134.14,22,12,6,SUP-023
+PRD-0202,AeroSport Studio Yoga Mat 202,Sports & Outdoors,Fitness Equipment,AeroSport,33.57,47.38,26,12,14,SUP-010
+PRD-0203,PaperCraft Pro Mesh Office Chair 203,Office & Stationery,Ergonomic Furniture,PaperCraft,73.19,127.98,23,12,4,SUP-001
+PRD-0204,VitalPure Air Collagen Powder 204,Health & Personal Care,Vitamins & Supplements,VitalPure,17.58,27.92,44,17,8,SUP-002
+PRD-0205,NexaTech Studio Wi-Fi Camera 205,Electronics,Smart Home,NexaTech,52.36,72.6,54,21,21,SUP-025
+PRD-0206,ChefLine Smart Dutch Oven 206,Home & Kitchen,Cookware,ChefLine,76.53,123.41,44,17,14,SUP-022
+PRD-0207,NorthPeak Compact Insulated Vest 207,Apparel & Footwear,Outerwear,NorthPeak,75.12,113.39,29,12,13,SUP-007
+PRD-0208,TrailBlaze Essential Dome Tent 208,Sports & Outdoors,Camping Gear,TrailBlaze,151.34,228.43,26,12,12,SUP-021
+PRD-0209,ClearLine Flex Hardcover Journal 209,Office & Stationery,Paper & Notebooks,ClearLine,66.51,119.3,87,34,15,SUP-014
+PRD-0210,BioBalance Elite Electric Trimmer 210,Health & Personal Care,Personal Grooming,BioBalance,20.59,38.99,66,26,13,SUP-029
+PRD-0211,VoltEdge Studio Wireless Mouse 211,Electronics,Computer Accessories,VoltEdge,269.42,396.54,24,12,13,SUP-017
+PRD-0212,HearthCraft Prime Vacuum Seal Bags 212,Home & Kitchen,Storage & Organization,HearthCraft,74.23,106.97,52,20,10,SUP-009
+PRD-0213,StridePro Core Road Cushioned Shoe 213,Apparel & Footwear,Running Shoes,StridePro,45.83,72.66,32,12,11,SUP-017
+PRD-0214,SummitGear Elite U-Lock 214,Sports & Outdoors,Cycling Accessories,SummitGear,127.62,175.66,22,12,5,SUP-011
+PRD-0215,PaperCraft Prime File Sorter 215,Office & Stationery,Desk Organizers,PaperCraft,32.48,58.48,26,12,6,SUP-020
+PRD-0216,GlowLab Core Night Cream 216,Health & Personal Care,Skincare,GlowLab,11.39,18.56,23,12,8,SUP-015
+PRD-0217,SoundCoreX Max Wireless Earbuds 217,Electronics,Audio & Headphones,SoundCoreX,54.25,72.47,24,12,9,SUP-007
+PRD-0218,PureNest Ultra Air Fryer 218,Home & Kitchen,Small Appliances,PureNest,122.12,178.56,22,12,7,SUP-011
+PRD-0219,UrbanWeave Classic Training Shorts 219,Apparel & Footwear,Athletic Wear,UrbanWeave,63.84,99.12,67,26,11,SUP-008
+PRD-0220,AeroSport Max Adjustable Dumbbell 220,Sports & Outdoors,Fitness Equipment,AeroSport,35.4,49.42,27,12,13,SUP-014
+PRD-0221,WorkFlow Core Footrest 221,Office & Stationery,Ergonomic Furniture,WorkFlow,132.25,216.46,22,12,5,SUP-023
+PRD-0222,BioBalance Compact Vitamin D3 Drops 222,Health & Personal Care,Vitamins & Supplements,BioBalance,26.46,54.75,29,12,5,SUP-003
+PRD-0223,OptiGear Essential Thermostat Hub 223,Electronics,Smart Home,OptiGear,172.1,243.23,52,20,16,SUP-030
+PRD-0224,LuminaHome Core Nonstick Pan Set 224,Home & Kitchen,Cookware,LuminaHome,86.85,121.14,22,12,7,SUP-020
+PRD-0225,FlexFit Ultra Windbreaker 225,Apparel & Footwear,Outerwear,FlexFit,62.15,101.26,70,27,20,SUP-026
+PRD-0226,IronCore Core Camp Lantern 226,Sports & Outdoors,Camping Gear,IronCore,168.14,289.72,41,16,14,SUP-022
+PRD-0227,ErgoDesk Elite Sticky Note Pack 227,Office & Stationery,Paper & Notebooks,ErgoDesk,77.12,130.83,26,12,8,SUP-018
+PRD-0228,ZenCare Active Sonic Toothbrush 228,Health & Personal Care,Personal Grooming,ZenCare,29.58,46.05,56,22,11,SUP-010
+PRD-0229,OptiGear Classic Laptop Stand 229,Electronics,Computer Accessories,OptiGear,190.99,283.43,67,26,12,SUP-007
+PRD-0230,PureNest Active Spice Rack 230,Home & Kitchen,Storage & Organization,PureNest,88.47,140.15,93,36,15,SUP-030
+PRD-0231,FlexFit Classic Trail Runner 231,Apparel & Footwear,Running Shoes,FlexFit,61.32,89.06,92,36,19,SUP-028
+PRD-0232,TrailBlaze Prime U-Lock 232,Sports & Outdoors,Cycling Accessories,TrailBlaze,22.3,36.74,34,13,9,SUP-005
+PRD-0233,WorkFlow Elite Cable Management Box 233,Office & Stationery,Desk Organizers,WorkFlow,127.14,196.92,30,12,9,SUP-001
+PRD-0234,BioBalance Core Clay Cleanser 234,Health & Personal Care,Skincare,BioBalance,23.41,37.37,54,21,14,SUP-014
+PRD-0235,VoltEdge Studio Wireless Earbuds 235,Electronics,Audio & Headphones,VoltEdge,309.26,467.3,74,29,17,SUP-029
+PRD-0236,HearthCraft Active Electric Kettle 236,Home & Kitchen,Small Appliances,HearthCraft,59.93,83.03,49,19,13,SUP-012
+PRD-0237,StridePro Studio Performance Hoodie 237,Apparel & Footwear,Athletic Wear,,63.58,105.7,69,27,20,SUP-030
+PRD-0238,IronCore Ultra Adjustable Dumbbell 238,Sports & Outdoors,Fitness Equipment,IronCore,146.75,247.29,22,12,3,SUP-003
+PRD-0239,PaperCraft Prime Mesh Office Chair 239,Office & Stationery,Ergonomic Furniture,PaperCraft,86.15,138.59,22,12,6,SUP-001
+PRD-0240,ZenCare Flex Electrolyte Mix 240,Health & Personal Care,Vitamins & Supplements,ZenCare,29.47,55.15,22,12,4,SUP-005
+PRD-0241,OptiGear Eco Thermostat Hub 241,Electronics,Smart Home,OptiGear,66.19,88.09,24,12,11,SUP-007
+PRD-0242,PureNest Eco Dutch Oven 242,Home & Kitchen,Cookware,PureNest,63.84,104.26,24,12,12,SUP-013
+PRD-0243,UrbanWeave Flex Windbreaker 243,Apparel & Footwear,Outerwear,UrbanWeave,65.74,109.43,31,12,21,SUP-027
+PRD-0244,IronCore Compact Camp Lantern 244,Sports & Outdoors,Camping Gear,IronCore,178.95,310.21,30,12,6,SUP-020
+PRD-0245,PaperCraft Smart Copy Paper Ream 245,Office & Stationery,Paper & Notebooks,PaperCraft,12.95,23.58,38,15,20,SUP-028
+PRD-0246,BioBalance Smart Electric Trimmer 246,Health & Personal Care,Personal Grooming,BioBalance,55.58,88.56,90,35,15,SUP-022
+PRD-0247,OptiGear Studio Wireless Mouse 247,Electronics,Computer Accessories,OptiGear,156.28,202.7,30,12,10,SUP-012
+PRD-0248,LuminaHome Air Modular Bin 248,Home & Kitchen,Storage & Organization,LuminaHome,48.61,82.03,30,12,5,SUP-006
+PRD-0249,StridePro Max Carbon Tempo Shoe 249,Apparel & Footwear,Running Shoes,StridePro,93.07,174.14,38,15,20,SUP-025
+PRD-0250,AeroSport Prime Frame Pump 250,Sports & Outdoors,Cycling Accessories,AeroSport,106.4,166.77,108,42,17,SUP-029
+PRD-0251,ErgoDesk Max File Sorter 251,Office & Stationery,Desk Organizers,ErgoDesk,76.29,120.07,24,12,6,SUP-015
+PRD-0252,GlowLab Ultra Hyaluronic Serum 252,Health & Personal Care,Skincare,GlowLab,12.41,24.42,85,33,14,SUP-022
+PRD-0253,OptiGear Flex Wireless Earbuds 253,Electronics,Audio & Headphones,OptiGear,71.47,95.45,22,12,4,SUP-002
+PRD-0254,LuminaHome Classic Blender 254,Home & Kitchen,Small Appliances,LuminaHome,131.83,223.06,22,12,4,SUP-002
+PRD-0255,NorthPeak Essential Yoga Leggings 255,Apparel & Footwear,Athletic Wear,NorthPeak,30.61,53.09,24,12,5,SUP-002
+PRD-0256,AeroSport Flex Kettlebell 256,Sports & Outdoors,Fitness Equipment,AeroSport,50.7,84.68,110,43,19,SUP-026
+PRD-0257,PaperCraft Active Mesh Office Chair 257,Office & Stationery,Ergonomic Furniture,PaperCraft,19.95,29.96,44,17,7,SUP-011
+PRD-0258,GlowLab Core Vitamin D3 Drops 258,Health & Personal Care,Vitamins & Supplements,GlowLab,51.93,94.74,26,12,8,SUP-013
+PRD-0259,VoltEdge Flex Smart Plug 259,Electronics,Smart Home,VoltEdge,153.25,205.62,26,12,11,SUP-021
+PRD-0260,ChefLine Max Dutch Oven 260,Home & Kitchen,Cookware,ChefLine,36.05,50.02,31,12,8,SUP-018
+PRD-0261,StridePro Eco Windbreaker 261,Apparel & Footwear,Outerwear,StridePro,94.59,160.15,46,18,13,SUP-014
+PRD-0262,IronCore Active Dome Tent 262,Sports & Outdoors,Camping Gear,IronCore,114.06,164.38,26,12,15,SUP-022
+PRD-0263,PaperCraft Active Hardcover Journal 263,Office & Stationery,Paper & Notebooks,PaperCraft,144.1,232.58,50,19,9,SUP-015
+PRD-0264,VitalPure Max Hair Dryer 264,Health & Personal Care,Personal Grooming,VitalPure,52.56,92.34,75,29,13,SUP-014
+PRD-0265,OptiGear Flex Mechanical Keyboard 265,Electronics,Computer Accessories,OptiGear,220.45,322.17,32,12,10,SUP-011
+PRD-0266,LuminaHome Studio Pantry Container Set 266,Home & Kitchen,Storage & Organization,LuminaHome,115.95,177.06,28,12,7,SUP-002
+PRD-0267,UrbanWeave Compact Carbon Tempo Shoe 267,Apparel & Footwear,Running Shoes,UrbanWeave,25.49,39.49,36,14,7,SUP-023
+PRD-0268,SummitGear Compact Frame Pump 268,Sports & Outdoors,Cycling Accessories,SummitGear,62.16,86.67,22,12,7,SUP-003
+PRD-0269,ErgoDesk Essential Cable Management Box 269,Office & Stationery,Desk Organizers,ErgoDesk,87.53,157.32,59,23,12,SUP-009
+PRD-0270,BioBalance Core Hyaluronic Serum 270,Health & Personal Care,Skincare,BioBalance,28.39,50.73,49,19,18,SUP-025
+PRD-0271,VoltEdge Smart Studio Headphones 271,Electronics,Audio & Headphones,VoltEdge,187.32,275.43,22,12,2,SUP-004
+PRD-0272,HearthCraft Compact Electric Kettle 272,Home & Kitchen,Small Appliances,HearthCraft,107.74,176.18,61,24,11,SUP-007
+PRD-0273,NorthPeak Compact Training Shorts 273,Apparel & Footwear,Athletic Wear,NorthPeak,29.11,49.01,23,12,7,SUP-011
+PRD-0274,IronCore Prime Yoga Mat 274,Sports & Outdoors,Fitness Equipment,IronCore,68.84,100.45,23,12,5,SUP-011
+PRD-0275,PaperCraft Smart Footrest 275,Office & Stationery,Ergonomic Furniture,PaperCraft,42.34,73.82,35,14,9,SUP-012
+PRD-0276,BioBalance Flex Electrolyte Mix 276,Health & Personal Care,Vitamins & Supplements,BioBalance,57.43,120.56,47,18,8,SUP-015
+PRD-0277,OptiGear Prime LED Strip 277,Electronics,Smart Home,OptiGear,160.97,209.57,46,18,12,SUP-024
+PRD-0278,HearthCraft Eco Nonstick Pan Set 278,Home & Kitchen,Cookware,HearthCraft,64.14,99.34,46,18,8,SUP-023
+PRD-0279,FlexFit Ultra Insulated Vest 279,Apparel & Footwear,Outerwear,FlexFit,78.44,146.99,75,29,13,SUP-007
+PRD-0280,AeroSport Ultra Insulated Flask 280,Sports & Outdoors,Camping Gear,AeroSport,68.92,104.12,28,12,6,SUP-023
+PRD-0281,PaperCraft Active Planner Pad 281,Office & Stationery,Paper & Notebooks,PaperCraft,91.78,140.73,22,12,6,SUP-011
+PRD-0282,VitalPure Air Electric Trimmer 282,Health & Personal Care,Personal Grooming,VitalPure,62.11,108.18,39,15,8,SUP-002
+PRD-0283,NexaTech Essential Wireless Mouse 283,Electronics,Computer Accessories,NexaTech,264.54,357.52,24,12,10,SUP-006
+PRD-0284,LuminaHome Smart Vacuum Seal Bags 284,Home & Kitchen,Storage & Organization,LuminaHome,116.25,166.51,82,32,13,SUP-029
+PRD-0285,UrbanWeave Compact Trail Runner 285,Apparel & Footwear,Running Shoes,UrbanWeave,49.6,78.2,59,23,11,SUP-013
+PRD-0286,AeroSport Studio LED Tail Light 286,Sports & Outdoors,Cycling Accessories,AeroSport,153.29,220.01,30,12,7,SUP-021
+PRD-0287,ErgoDesk Active File Sorter 287,Office & Stationery,Desk Organizers,ErgoDesk,38.03,62.12,22,12,7,SUP-002
+PRD-0288,BioBalance Essential SPF50 Moisturizer 288,Health & Personal Care,Skincare,BioBalance,50.58,87.15,23,12,8,SUP-008
+PRD-0289,NexaTech Elite Studio Headphones 289,Electronics,Audio & Headphones,NexaTech,279.24,405.85,57,22,9,SUP-015
+PRD-0290,ChefLine Essential Espresso Maker 290,Home & Kitchen,Small Appliances,ChefLine,63.63,106.46,22,12,3,SUP-003
+PRD-0291,StridePro Air Yoga Leggings 291,Apparel & Footwear,Athletic Wear,StridePro,52.46,81.33,22,12,3,SUP-003
+PRD-0292,TrailBlaze Compact Resistance Band Kit 292,Sports & Outdoors,Fitness Equipment,TrailBlaze,146.96,251.75,39,15,15,SUP-017
+PRD-0293,PaperCraft Smart Mesh Office Chair 293,Office & Stationery,Ergonomic Furniture,,26.8,48.9,27,12,10,SUP-008
+PRD-0294,GlowLab Elite Collagen Powder 294,Health & Personal Care,Vitamins & Supplements,GlowLab,30.75,46.77,22,12,2,SUP-003
+PRD-0295,SoundCoreX Air Smart Plug 295,Electronics,Smart Home,SoundCoreX,295.63,446.33,27,12,10,SUP-007
+PRD-0296,LuminaHome Eco Cast Iron Skillet 296,Home & Kitchen,Cookware,LuminaHome,123.03,179.26,28,12,5,SUP-003
+PRD-0297,UrbanWeave Ultra Rain Shell Jacket 297,Apparel & Footwear,Outerwear,UrbanWeave,90.08,163.42,76,30,13,SUP-024
+PRD-0298,IronCore Essential Camp Lantern 298,Sports & Outdoors,Camping Gear,IronCore,138.65,232.68,26,12,8,SUP-005
+PRD-0299,ErgoDesk Ultra Sticky Note Pack 299,Office & Stationery,Paper & Notebooks,ErgoDesk,83.44,135.79,33,13,10,SUP-008
+PRD-0300,ZenCare Core Shave Kit 300,Health & Personal Care,Personal Grooming,ZenCare,60.05,98.96,57,22,12,SUP-024
+PRD-0301,SoundCoreX Eco Laptop Stand 301,Electronics,Computer Accessories,SoundCoreX,259.59,399.6,72,28,5,SUP-006
+PRD-0302,ChefLine Essential Spice Rack 302,Home & Kitchen,Storage & Organization,ChefLine,57.06,89.78,120,47,8,SUP-020
+PRD-0303,StridePro Ultra Carbon Tempo Shoe 303,Apparel & Footwear,Running Shoes,StridePro,85.04,135.39,98,38,10,SUP-013
+PRD-0304,AeroSport Flex Frame Pump 304,Sports & Outdoors,Cycling Accessories,AeroSport,161.13,236.95,103,40,11,SUP-008
+PRD-0305,WorkFlow Flex Cable Management Box 305,Office & Stationery,Desk Organizers,WorkFlow,133.76,188.74,101,39,8,SUP-020
+PRD-0306,VitalPure Smart Clay Cleanser 306,Health & Personal Care,Skincare,VitalPure,36.25,55.58,167,65,12,SUP-014
+PRD-0307,OptiGear Pro Soundbar 307,ELECTRONICS,Audio & Headphones,OptiGear,303.82,393.06,96,37,11,SUP-012
+PRD-0308,ChefLine Eco Electric Kettle 308,Home & Kitchen,Small Appliances,ChefLine,107.5,178.45,100,39,9,SUP-009
+PRD-0309,NorthPeak Air Yoga Leggings 309,Apparel & Footwear,Athletic Wear,NorthPeak,33.46,48.97,113,44,9,SUP-008
+PRD-0310,AeroSport Ultra Kettlebell 310,Sports & Outdoors,Fitness Equipment,AeroSport,138.53,216.47,41,16,4,SUP-004
+PRD-0311,WorkFlow Flex Monitor Arm 311,Office & Stationery,Ergonomic Furniture,WorkFlow,142.76,252.01,103,40,9,SUP-007
+PRD-0312,GlowLab Ultra Omega-3 Softgels 312,Health & Personal Care,Vitamins & Supplements,GlowLab,63.42,129.49,113,44,12,SUP-021
+PRD-0313,OptiGear Essential Wi-Fi Camera 313,Electronics,Smart Home,OptiGear,51.55,67.66,165,64,11,SUP-007
+PRD-0314,HearthCraft Ultra Cast Iron Skillet 314,Home & Kitchen,Cookware,HearthCraft,28.97,47.5,105,41,8,SUP-023
+PRD-0315,StridePro Flex Fleece Pullover 315,Apparel & Footwear,Outerwear,StridePro,66.08,113.07,269,105,26,SUP-027
+PRD-0316,SummitGear Max Sleeping Bag 316,Sports & Outdoors,Camping Gear,SummitGear,93.76,132.94,96,37,11,SUP-013
+PRD-0317,ErgoDesk Essential Sticky Note Pack 317,Office & Stationery,Paper & Notebooks,ErgoDesk,135.68,210.11,167,65,12,SUP-008
+PRD-0318,ZenCare Prime Electric Trimmer 318,Health & Personal Care,Personal Grooming,ZenCare,51.61,86.94,75,29,6,SUP-023
+PRD-0319,NexaTech Prime USB-C Hub 319,Electronics,Computer Accessories,NexaTech,192.81,261.89,118,46,10,SUP-009
+PRD-0320,ChefLine Elite Vacuum Seal Bags 320,Home & Kitchen,Storage & Organization,ChefLine,91.81,128.28,185,72,15,SUP-010
+PRD-0321,UrbanWeave Max Carbon Tempo Shoe 321,Apparel & Footwear,Running Shoes,UrbanWeave,50.75,83.97,34,13,4,SUP-003
+PRD-0322,TrailBlaze Smart LED Tail Light 322,Sports & Outdoors,Cycling Accessories,TrailBlaze,138.35,199.89,224,87,20,SUP-026
+PRD-0323,WorkFlow Air File Sorter 323,Office & Stationery,Desk Organizers,WorkFlow,82.88,139.15,97,38,9,SUP-015
+PRD-0324,BioBalance Active Clay Cleanser 324,Health & Personal Care,Skincare,BioBalance,42.31,82.19,25,12,2,SUP-004
+PRD-0325,NexaTech Eco Bluetooth Speaker 325,electronics ,Audio & Headphones,NexaTech,170.58,239.91,218,85,21,SUP-028
+PRD-0326,LuminaHome Studio Air Fryer 326,Home & Kitchen,Small Appliances,LuminaHome,39.77,55.01,61,24,6,SUP-018
+PRD-0327,NorthPeak Air Performance Hoodie 327,Apparel & Footwear,Athletic Wear,NorthPeak,17.57,30.48,146,57,10,SUP-023
+PRD-0328,TrailBlaze Active Adjustable Dumbbell 328,Sports & Outdoors,Fitness Equipment,TrailBlaze,119.52,176.95,121,47,12,SUP-012
+PRD-0329,ErgoDesk Air Mesh Office Chair 329,Office & Stationery,Ergonomic Furniture,,145.49,236.43,124,48,9,SUP-007
+PRD-0330,BioBalance Classic Collagen Powder 330,Health & Personal Care,Vitamins & Supplements,BioBalance,20.76,34.71,52,20,6,SUP-011
+PRD-0331,NexaTech Studio Thermostat Hub 331,Electronics,Smart Home,NexaTech,317.13,451.03,237,92,17,SUP-030
+PRD-0332,ChefLine Elite Dutch Oven 332,Home & Kitchen,Cookware,ChefLine,38.09,58.47,100,39,11,SUP-021
+PRD-0333,FlexFit Elite Rain Shell Jacket 333,Apparel & Footwear,Outerwear,FlexFit,93.8,178.51,159,62,18,SUP-030
+PRD-0334,AeroSport Pro Sleeping Bag 334,Sports & Outdoors,Camping Gear,AeroSport,106.66,167.92,96,37,8,SUP-006
+PRD-0335,ErgoDesk Elite Copy Paper Ream 335,Office & Stationery,Paper & Notebooks,ErgoDesk,57.37,88.85,65,25,8,SUP-023
+PRD-0336,VitalPure Eco Shave Kit 336,Health & Personal Care,Personal Grooming,VitalPure,33.44,54.73,67,26,6,SUP-004
+PRD-0337,VoltEdge Pro Laptop Stand 337,Electronics,Computer Accessories,VoltEdge,77.22,112.52,113,44,16,SUP-010
+PRD-0338,PureNest Pro Modular Bin 338,HOME & KITCHEN,Storage & Organization,PureNest,86.46,117.38,70,27,9,SUP-001
+PRD-0339,UrbanWeave Flex Trail Runner 339,Apparel & Footwear,Running Shoes,UrbanWeave,50.43,74.93,170,66,12,SUP-014
+PRD-0340,AeroSport Ultra Bike Helmet 340,Sports & Outdoors,Cycling Accessories,AeroSport,46.93,80.32,62,24,8,SUP-011
+PRD-0341,ClearLine Compact File Sorter 341,Office & Stationery,Desk Organizers,ClearLine,117.62,196.4,118,46,11,SUP-020
+PRD-0342,BioBalance Studio SPF50 Moisturizer 342,Health & Personal Care,Skincare,BioBalance,35.2,60.4,41,16,6,SUP-023
+PRD-0343,VoltEdge Classic Studio Headphones 343,Electronics,Audio & Headphones,VoltEdge,30.44,42.57,177,69,15,SUP-022
+PRD-0344,ChefLine Flex Electric Kettle 344,Home & Kitchen,Small Appliances,ChefLine,115.75,185.1,31,12,3,SUP-002
+PRD-0345,UrbanWeave Flex Performance Hoodie 345,Apparel & Footwear,Athletic Wear,UrbanWeave,18.4,28.74,100,39,10,SUP-008
+PRD-0346,IronCore Ultra Adjustable Dumbbell 346,Sports & Outdoors,Fitness Equipment,IronCore,151.56,260.72,160,62,11,SUP-014
+PRD-0347,PaperCraft Pro Monitor Arm 347,Office & Stationery,Ergonomic Furniture,PaperCraft,152.6,214.47,312,121,21,SUP-028
+PRD-0348,BioBalance Essential Collagen Powder 348,Health & Personal Care,Vitamins & Supplements,BioBalance,63.33,115.91,111,43,8,SUP-024
+PRD-0349,VoltEdge Flex Thermostat Hub 349,Electronics,Smart Home,VoltEdge,148.09,212.42,154,60,12,SUP-019
+PRD-0350,HearthCraft Max Cast Iron Skillet 350,Home & Kitchen,Cookware,HearthCraft,105.41,173.63,152,59,14,SUP-016
+PRD-0351,UrbanWeave Smart Windbreaker 351,Apparel & Footwear,Outerwear,UrbanWeave,73.65,120.38,167,65,20,SUP-030
+PRD-0352,TrailBlaze Max Sleeping Bag 352,Sports & Outdoors,Camping Gear,TrailBlaze,170.7,280.57,41,16,3,SUP-003
+PRD-0353,PaperCraft Classic Hardcover Journal 353,Office & Stationery,Paper & Notebooks,PaperCraft,43.22,72.54,157,61,18,SUP-026
+PRD-0354,BioBalance Ultra Hair Dryer 354,Health & Personal Care,Personal Grooming,BioBalance,64.28,102.23,123,48,10,SUP-014
+PRD-0355,OptiGear Classic Mechanical Keyboard 355,Electronics,Computer Accessories,OptiGear,165.22,245.11,23,12,2,SUP-003
+PRD-0356,PureNest Pro Spice Rack 356,Home & Kitchen,Storage & Organization,PureNest,78.57,129.24,74,29,5,SUP-002
+PRD-0357,NorthPeak Flex Trail Runner 357,Apparel & Footwear,Running Shoes,NorthPeak,85.81,145.42,26,12,3,SUP-004
+PRD-0358,TrailBlaze Essential U-Lock 358,Sports & Outdoors,Cycling Accessories,TrailBlaze,25.67,37.6,103,40,10,SUP-014
+PRD-0359,PaperCraft Elite Pen Caddy 359,Office & Stationery,Desk Organizers,PaperCraft,49.06,69.39,155,60,16,SUP-016
+PRD-0360,ZenCare Smart Clay Cleanser 360,Health & Personal Care,Skincare,ZenCare,14.19,21.4,115,45,11,SUP-014
+PRD-0361,SoundCoreX Classic Soundbar 361,Electronics,Audio & Headphones,SoundCoreX,136.46,194.21,126,49,19,SUP-025
+PRD-0362,ChefLine Flex Blender 362,Home & Kitchen,Small Appliances,ChefLine,56.14,84.07,66,26,5,SUP-023
+PRD-0363,FlexFit Active Training Shorts 363,Apparel & Footwear,Athletic Wear,FlexFit,63.11,115.61,119,46,9,SUP-001
+PRD-0364,IronCore Eco Kettlebell 364,Sports & Outdoors,Fitness Equipment,IronCore,168.52,293.63,52,20,5,SUP-023
+PRD-0365,ClearLine Studio Standing Desk Mat 365,Office & Stationery,Ergonomic Furniture,ClearLine,57.79,106.59,52,20,5,SUP-005
+PRD-0366,VitalPure Ultra Collagen Powder 366,Health & Personal Care,Vitamins & Supplements,VitalPure,26.46,47.31,95,37,9,SUP-005
+PRD-0367,VoltEdge Ultra Smart Plug 367,Electronics,Smart Home,VoltEdge,303.9,410.8,51,20,7,SUP-002
+PRD-0368,ChefLine Studio Nonstick Pan Set 368,Home & Kitchen,Cookware,ChefLine,131.05,199.96,175,68,20,SUP-030
+PRD-0369,FlexFit Eco Insulated Vest 369,Apparel & Footwear,Outerwear,FlexFit,50.86,80.85,177,69,18,SUP-026
+PRD-0370,AeroSport Smart Camp Lantern 370,SPORTS & OUTDOORS,Camping Gear,,176.2,251.01,88,34,13,SUP-022
+PRD-0371,ErgoDesk Classic Copy Paper Ream 371,Office & Stationery,Paper & Notebooks,ErgoDesk,110.73,164.06,105,41,12,SUP-007
+PRD-0372,ZenCare Eco Sonic Toothbrush 372,Health & Personal Care,Personal Grooming,ZenCare,27.89,53.83,115,45,12,SUP-014
+PRD-0373,VoltEdge Core USB-C Hub 373,Electronics,Computer Accessories,VoltEdge,88.08,134.15,54,21,8,SUP-018
+PRD-0374,PureNest Studio Pantry Container Set 374,Home & Kitchen,Storage & Organization,PureNest,27.86,39.94,84,33,11,SUP-021
+PRD-0375,NorthPeak Core Cross Trainer 375,Apparel & Footwear,Running Shoes,NorthPeak,63.52,114.67,211,82,14,SUP-029
+PRD-0376,SummitGear Eco LED Tail Light 376,Sports & Outdoors,Cycling Accessories,SummitGear,44.38,69.13,168,65,21,SUP-025
+PRD-0377,ErgoDesk Flex Cable Management Box 377,Office & Stationery,Desk Organizers,ErgoDesk,148.86,226.13,37,14,5,SUP-001
+PRD-0378,VitalPure Air Hyaluronic Serum 378,Health & Personal Care,Skincare,VitalPure,23.61,35.88,49,19,6,SUP-011
+PRD-0379,OptiGear Classic Studio Headphones 379,Electronics,Audio & Headphones,OptiGear,125.01,171.08,67,26,10,SUP-012
+PRD-0380,HearthCraft Compact Air Fryer 380,Home & Kitchen,Small Appliances,HearthCraft,108.85,184.69,108,42,10,SUP-011
+PRD-0381,FlexFit Eco Yoga Leggings 381,Apparel & Footwear,Athletic Wear,FlexFit,76.92,140.95,213,83,15,SUP-010
+PRD-0382,AeroSport Essential Resistance Band Kit 382,Sports & Outdoors,Fitness Equipment,AeroSport,142.23,237.89,87,34,6,SUP-023
+PRD-0383,ErgoDesk Ultra Footrest 383,Office & Stationery,Ergonomic Furniture,ErgoDesk,124.59,179.66,108,42,16,SUP-030
+PRD-0384,ZenCare Max Collagen Powder 384,Health & Personal Care,Vitamins & Supplements,ZenCare,53.56,99.7,124,48,17,SUP-016
+PRD-0385,OptiGear Smart Thermostat Hub 385,Electronics,Smart Home,OptiGear,37.53,52.58,89,35,9,SUP-013
+PRD-0386,PureNest Core Nonstick Pan Set 386,Home & Kitchen,Cookware,PureNest,124.56,179.94,213,83,21,SUP-026
+PRD-0387,FlexFit Smart Insulated Vest 387,Apparel & Footwear,Outerwear,FlexFit,48.42,76.44,109,42,14,SUP-016
+PRD-0388,SummitGear Air Sleeping Bag 388,Sports & Outdoors,Camping Gear,SummitGear,109.66,166.17,78,30,9,SUP-015
+PRD-0389,PaperCraft Active Hardcover Journal 389,Office & Stationery,Paper & Notebooks,PaperCraft,155.01,275.48,88,34,8,SUP-024
+PRD-0390,VitalPure Studio Electric Trimmer 390,Health & Personal Care,Personal Grooming,VitalPure,54.64,101.11,174,68,12,SUP-010
+PRD-0391,OptiGear Ultra Mechanical Keyboard 391,Electronics,Computer Accessories,OptiGear,237.71,308.05,175,68,13,SUP-017
+PRD-0392,ChefLine Pro Modular Bin 392,Home & Kitchen,Storage & Organization,ChefLine,77.57,111.74,38,15,5,SUP-003
+PRD-0393,NorthPeak Active Road Cushioned Shoe 393,Apparel & Footwear,Running Shoes,NorthPeak,29.88,48.16,267,104,21,SUP-027
+PRD-0394,SummitGear Eco LED Tail Light 394,Sports & Outdoors,Cycling Accessories,SummitGear,43.32,60.29,177,69,17,SUP-022
+PRD-0395,ErgoDesk Prime Cable Management Box 395,Office & Stationery,Desk Organizers,ErgoDesk,148.04,213.1,145,56,10,SUP-015
+PRD-0396,VitalPure Flex Night Cream 396,Health & Personal Care,Skincare,VitalPure,25.94,44.44,90,35,9,SUP-021
+PRD-0397,SoundCoreX Essential Bluetooth Speaker 397,Electronics,Audio & Headphones,SoundCoreX,99.73,146.65,164,64,24,SUP-027
+PRD-0398,HearthCraft Ultra Blender 398,Home & Kitchen,Small Appliances,HearthCraft,55.39,87.48,147,57,10,SUP-014
+PRD-0399,FlexFit Air Training Shorts 399,Apparel & Footwear,Athletic Wear,FlexFit,25.92,41.73,289,112,26,SUP-027
+PRD-0400,IronCore Eco Resistance Band Kit 400,Sports & Outdoors,Fitness Equipment,IronCore,27.82,41.66,118,46,12,SUP-017
+PRD-0401,WorkFlow Essential Standing Desk Mat 401,Office & Stationery,Ergonomic Furniture,WorkFlow,102.55,161.48,89,35,8,SUP-008
+PRD-0402,GlowLab Active Collagen Powder 402,Health & Personal Care,Vitamins & Supplements,GlowLab,29.6,54.83,132,51,12,SUP-008
+PRD-0403,VoltEdge Prime Thermostat Hub 403,Electronics,Smart Home,VoltEdge,42.32,59.07,195,76,13,SUP-024
+PRD-0404,ChefLine Core Nonstick Pan Set 404,Home & Kitchen,Cookware,ChefLine,23.88,36.94,52,20,4,SUP-001
+PRD-0405,StridePro Eco Rain Shell Jacket 405,Apparel & Footwear,Outerwear,StridePro,84.55,149.19,221,86,17,SUP-022
+PRD-0406,SummitGear Studio Insulated Flask 406,Sports & Outdoors,Camping Gear,SummitGear,158.79,216.68,42,16,5,SUP-003
+PRD-0407,WorkFlow Core Sticky Note Pack 407,Office & Stationery,Paper & Notebooks,WorkFlow,70.71,104.98,138,54,11,SUP-020
+PRD-0408,GlowLab Smart Electric Trimmer 408,Health & Personal Care,Personal Grooming,GlowLab,13.33,27.1,131,51,16,SUP-022
+PRD-0409,SoundCoreX Smart USB-C Hub 409,Electronics,Computer Accessories,SoundCoreX,233.91,337.96,145,56,16,SUP-030
+PRD-0410,PureNest Max Modular Bin 410,Home & Kitchen,Storage & Organization,PureNest,105.25,143.68,268,104,21,SUP-027
+PRD-0411,FlexFit Active Road Cushioned Shoe 411,apparel & footwear ,Running Shoes,FlexFit,52.73,89.27,22,12,10,SUP-023
+PRD-0412,IronCore Air U-Lock 412,Sports & Outdoors,Cycling Accessories,IronCore,87.85,139.62,22,12,14,SUP-019
+PRD-0413,ClearLine Ultra Cable Management Box 413,Office & Stationery,Desk Organizers,ClearLine,33.83,52.72,22,12,9,SUP-012
+PRD-0414,GlowLab Ultra Night Cream 414,Health & Personal Care,Skincare,GlowLab,36.29,74.45,22,12,16,SUP-026
+PRD-0415,VoltEdge Elite Bluetooth Speaker 415,Electronics,Audio & Headphones,VoltEdge,102.51,158.5,22,12,3,SUP-003
+PRD-0416,HearthCraft Ultra Blender 416,Home & Kitchen,Small Appliances,HearthCraft,75.74,117.64,22,12,6,SUP-005
+PRD-0417,NorthPeak Essential Performance Hoodie 417,Apparel & Footwear,Athletic Wear,NorthPeak,70.18,132.23,22,12,11,SUP-013
+PRD-0418,IronCore Flex Adjustable Dumbbell 418,Sports & Outdoors,Fitness Equipment,IronCore,45.59,62.81,22,12,16,SUP-016
+PRD-0419,WorkFlow Max Mesh Office Chair 419,Office & Stationery,Ergonomic Furniture,WorkFlow,138.83,246.56,22,12,3,SUP-002
+PRD-0420,VitalPure Prime Omega-3 Softgels 420,Health & Personal Care,Vitamins & Supplements,VitalPure,56.66,92.97,22,12,8,SUP-015
+PRD-0421,SoundCoreX Air Thermostat Hub 421,Electronics,Smart Home,SoundCoreX,172.69,267.16,22,12,7,SUP-015
+PRD-0422,HearthCraft Active Cast Iron Skillet 422,Home & Kitchen,Cookware,HearthCraft,73.14,121.43,22,12,5,SUP-004
+PRD-0423,FlexFit Compact Windbreaker 423,Apparel & Footwear,Outerwear,FlexFit,44.33,75.84,22,12,8,SUP-013
+PRD-0424,IronCore Max Sleeping Bag 424,SPORTS & OUTDOORS,Camping Gear,IronCore,58.64,87.73,22,12,3,SUP-002
+PRD-0425,WorkFlow Flex Copy Paper Ream 425,Office & Stationery,Paper & Notebooks,WorkFlow,112.85,201.04,22,12,4,SUP-005
+PRD-0426,VitalPure Studio Electric Trimmer 426,Health & Personal Care,Personal Grooming,VitalPure,10.69,20.92,22,12,10,SUP-006
+PRD-0427,SoundCoreX Air USB-C Hub 427,Electronics,Computer Accessories,SoundCoreX,199.68,296.35,22,12,7,SUP-003
+PRD-0428,PureNest Smart Vacuum Seal Bags 428,Home & Kitchen,Storage & Organization,PureNest,138.88,200.01,22,12,10,SUP-012
+PRD-0429,NorthPeak Studio Carbon Tempo Shoe 429,Apparel & Footwear,Running Shoes,NorthPeak,78.38,143.16,22,12,8,SUP-018
+PRD-0430,AeroSport Compact Bike Helmet 430,Sports & Outdoors,Cycling Accessories,AeroSport,108.05,158.72,26,12,22,SUP-027
+PRD-0431,PaperCraft Max File Sorter 431,Office & Stationery,Desk Organizers,PaperCraft,70.2,115.26,22,12,20,SUP-030
+PRD-0432,GlowLab Classic Hyaluronic Serum 432,health & personal care ,Skincare,GlowLab,38.08,58.66,22,12,21,SUP-026
+PRD-0433,VoltEdge Essential Soundbar 433,Electronics,Audio & Headphones,VoltEdge,53.6,81.64,22,12,10,SUP-023
+PRD-0434,ChefLine Pro Blender 434,Home & Kitchen,Small Appliances,ChefLine,92.85,149.96,22,12,7,SUP-002
+PRD-0435,FlexFit Studio Training Shorts 435,Apparel & Footwear,Athletic Wear,FlexFit,70.78,136.5,22,12,11,SUP-010
+PRD-0436,SummitGear Elite Resistance Band Kit 436,Sports & Outdoors,Fitness Equipment,SummitGear,140.49,245.73,22,12,5,SUP-015
+PRD-0437,PaperCraft Studio Monitor Arm 437,Office & Stationery,Ergonomic Furniture,PaperCraft,94.02,133.7,22,12,7,SUP-015
+PRD-0438,GlowLab Air Electrolyte Mix 438,Health & Personal Care,Vitamins & Supplements,GlowLab,45.47,87.85,22,12,8,SUP-006
+PRD-0439,OptiGear Flex Thermostat Hub 439,Electronics,Smart Home,OptiGear,203.83,266.47,22,12,11,SUP-017
+PRD-0440,PureNest Active Dutch Oven 440,Home & Kitchen,Cookware,PureNest,98.92,136.67,22,12,12,SUP-012
+PRD-0441,StridePro Air Windbreaker 441,Apparel & Footwear,Outerwear,StridePro,62.48,109.07,22,12,19,SUP-025
+PRD-0442,IronCore Core Insulated Flask 442,Sports & Outdoors,Camping Gear,IronCore,135.18,210.6,22,12,9,SUP-008
+PRD-0443,ClearLine Essential Planner Pad 443,Office & Stationery,Paper & Notebooks,ClearLine,63.5,115.88,22,12,7,SUP-006
+PRD-0444,ZenCare Active Electric Trimmer 444,Health & Personal Care,Personal Grooming,ZenCare,27.28,54.27,22,12,18,SUP-026
+PRD-0445,OptiGear Core Wireless Mouse 445,Electronics,Computer Accessories,OptiGear,204.55,314.79,22,12,3,SUP-004
+PRD-0446,PureNest Active Spice Rack 446,Home & Kitchen,Storage & Organization,PureNest,125.11,191.76,22,12,18,SUP-030
+PRD-0447,UrbanWeave Core Carbon Tempo Shoe 447,Apparel & Footwear,Running Shoes,UrbanWeave,17.71,31.73,22,12,9,SUP-015
+PRD-0448,AeroSport Max LED Tail Light 448,Sports & Outdoors,Cycling Accessories,AeroSport,26.64,45.98,22,12,11,SUP-020
+PRD-0449,ClearLine Flex File Sorter 449,Office & Stationery,Desk Organizers,ClearLine,70.64,102.69,22,12,11,SUP-014
+PRD-0450,VitalPure Smart Night Cream 450,Health & Personal Care,Skincare,VitalPure,16.31,26.68,22,12,19,SUP-028
+PRD-0451,SoundCoreX Essential Studio Headphones 451,Electronics,Audio & Headphones,SoundCoreX,133.59,193.58,22,12,12,SUP-017
+PRD-0452,LuminaHome Active Electric Kettle 452,Home & Kitchen,Small Appliances,LuminaHome,127.52,209.16,22,12,10,SUP-008
+PRD-0453,UrbanWeave Flex Performance Hoodie 453,Apparel & Footwear,Athletic Wear,UrbanWeave,16.32,31.48,22,12,12,SUP-021
+PRD-0454,SummitGear Essential Resistance Band Kit 454,Sports & Outdoors,Fitness Equipment,,20.01,31.09,22,12,14,SUP-010
+PRD-0455,PaperCraft Classic Footrest 455,Office & Stationery,Ergonomic Furniture,PaperCraft,87.24,136.87,22,12,7,SUP-008
+PRD-0456,BioBalance Flex Vitamin D3 Drops 456,Health & Personal Care,Vitamins & Supplements,BioBalance,24.76,45.21,22,12,9,SUP-008
+PRD-0457,OptiGear Active Wi-Fi Camera 457,Electronics,Smart Home,OptiGear,229.37,295.14,22,12,9,SUP-009
+PRD-0458,PureNest Prime Cast Iron Skillet 458,Home & Kitchen,Cookware,PureNest,91.06,144.55,22,12,6,SUP-004
+PRD-0459,UrbanWeave Flex Fleece Pullover 459,Apparel & Footwear,Outerwear,UrbanWeave,18.3,27.45,22,12,11,SUP-012
+PRD-0460,SummitGear Classic Dome Tent 460,Sports & Outdoors,Camping Gear,SummitGear,108.33,178.79,22,12,9,SUP-015
+PRD-0461,WorkFlow Flex Planner Pad 461,Office & Stationery,Paper & Notebooks,WorkFlow,138.28,201.2,22,12,7,SUP-021
+PRD-0462,BioBalance Smart Shave Kit 462,Health & Personal Care,Personal Grooming,BioBalance,12.37,20.0,22,12,5,SUP-011
+PRD-0463,OptiGear Classic USB-C Hub 463,Electronics,Computer Accessories,OptiGear,158.07,219.5,22,12,9,SUP-005
+PRD-0464,LuminaHome Air Vacuum Seal Bags 464,HOME & KITCHEN,Storage & Organization,LuminaHome,27.92,40.58,22,12,17,SUP-022
+PRD-0465,NorthPeak Elite Cross Trainer 465,Apparel & Footwear,Running Shoes,NorthPeak,91.05,150.74,22,12,17,SUP-029
+PRD-0466,SummitGear Max Frame Pump 466,Sports & Outdoors,Cycling Accessories,,23.12,32.55,22,12,13,SUP-014
+PRD-0467,ClearLine Flex Mesh Tray 467,Office & Stationery,Desk Organizers,ClearLine,142.54,252.11,22,12,8,SUP-011
+PRD-0468,GlowLab Ultra SPF50 Moisturizer 468,Health & Personal Care,Skincare,GlowLab,36.17,58.54,22,12,14,SUP-012
+PRD-0469,OptiGear Prime Studio Headphones 469,Electronics,Audio & Headphones,OptiGear,308.08,413.34,23,12,24,SUP-027
+PRD-0470,LuminaHome Essential Espresso Maker 470,Home & Kitchen,Small Appliances,LuminaHome,83.73,123.08,22,12,4,SUP-002
+PRD-0471,FlexFit Ultra Performance Hoodie 471,Apparel & Footwear,Athletic Wear,FlexFit,86.02,151.83,22,12,9,SUP-015
+PRD-0472,SummitGear Compact Resistance Band Kit 472,Sports & Outdoors,Fitness Equipment,SummitGear,51.9,87.15,22,12,10,SUP-012
+PRD-0473,ClearLine Air Footrest 473,Office & Stationery,Ergonomic Furniture,ClearLine,138.89,212.64,22,12,10,SUP-018
+PRD-0474,BioBalance Prime Collagen Powder 474,Health & Personal Care,Vitamins & Supplements,BioBalance,45.88,92.12,22,12,7,SUP-003
+PRD-0475,VoltEdge Core Wi-Fi Camera 475,Electronics,Smart Home,VoltEdge,158.6,242.7,22,12,6,SUP-023
+PRD-0476,PureNest Studio Cast Iron Skillet 476,Home & Kitchen,Cookware,PureNest,40.9,67.25,22,12,9,SUP-021
+PRD-0477,UrbanWeave Compact Rain Shell Jacket 477,Apparel & Footwear,Outerwear,UrbanWeave,79.47,150.8,22,12,8,SUP-015
+PRD-0478,TrailBlaze Classic Sleeping Bag 478,Sports & Outdoors,Camping Gear,TrailBlaze,117.51,179.66,22,12,10,SUP-009
+PRD-0479,ErgoDesk Studio Hardcover Journal 479,Office & Stationery,Paper & Notebooks,ErgoDesk,78.71,139.16,22,12,16,SUP-016
+PRD-0480,ZenCare Flex Shave Kit 480,Health & Personal Care,Personal Grooming,ZenCare,56.66,90.21,22,12,5,SUP-003
+PRD-0481,OptiGear Air Mechanical Keyboard 481,Electronics,Computer Accessories,OptiGear,223.06,300.88,22,12,9,SUP-008
+PRD-0482,ChefLine Classic Pantry Container Set 482,Home & Kitchen,Storage & Organization,ChefLine,124.09,210.39,22,12,10,SUP-015
+PRD-0483,FlexFit Core Carbon Tempo Shoe 483,Apparel & Footwear,Running Shoes,FlexFit,46.46,87.59,22,12,9,SUP-001
+PRD-0484,SummitGear Pro LED Tail Light 484,Sports & Outdoors,Cycling Accessories,SummitGear,149.59,244.4,22,12,6,SUP-001
+PRD-0485,ErgoDesk Compact Cable Management Box 485,Office & Stationery,Desk Organizers,ErgoDesk,104.99,192.91,22,12,5,SUP-006
+PRD-0486,VitalPure Core Hyaluronic Serum 486,Health & Personal Care,Skincare,VitalPure,57.05,93.32,22,12,14,SUP-010
+PRD-0487,SoundCoreX Pro Studio Headphones 487,Electronics,Audio & Headphones,SoundCoreX,176.13,263.84,22,12,12,SUP-017
+PRD-0488,PureNest Elite Air Fryer 488,Home & Kitchen,Small Appliances,PureNest,106.82,173.54,22,12,11,SUP-010
+PRD-0489,UrbanWeave Prime Yoga Leggings 489,Apparel & Footwear,Athletic Wear,UrbanWeave,38.9,67.2,22,12,4,SUP-001
+PRD-0490,IronCore Studio Resistance Band Kit 490,Sports & Outdoors,Fitness Equipment,IronCore,47.41,74.05,22,12,11,SUP-008
+PRD-0491,ClearLine Ultra Monitor Arm 491,office & stationery ,Ergonomic Furniture,ClearLine,32.95,57.47,22,12,21,SUP-026
+PRD-0492,GlowLab Essential Omega-3 Softgels 492,Health & Personal Care,Vitamins & Supplements,GlowLab,18.64,33.52,22,12,15,SUP-030
+PRD-0493,VoltEdge Max LED Strip 493,Electronics,Smart Home,VoltEdge,48.83,74.13,22,12,18,SUP-026
+PRD-0494,LuminaHome Eco Chef Knife 494,Home & Kitchen,Cookware,LuminaHome,98.29,150.76,22,12,13,SUP-014
+PRD-0495,UrbanWeave Ultra Insulated Vest 495,Apparel & Footwear,Outerwear,UrbanWeave,20.8,39.99,22,12,14,SUP-010
+PRD-0496,IronCore Pro Insulated Flask 496,Sports & Outdoors,Camping Gear,IronCore,178.54,252.58,22,12,12,SUP-009
+PRD-0497,WorkFlow Pro Hardcover Journal 497,Office & Stationery,Paper & Notebooks,WorkFlow,60.63,102.58,22,12,8,SUP-023
+PRD-0498,ZenCare Eco Electric Trimmer 498,health & personal care ,Personal Grooming,ZenCare,14.67,22.91,22,12,5,SUP-003
+PRD-0499,SoundCoreX Compact Laptop Stand 499,Electronics,Computer Accessories,SoundCoreX,227.62,324.49,22,12,10,SUP-021
+PRD-0500,LuminaHome Studio Spice Rack 500,Home & Kitchen,Storage & Organization,LuminaHome,21.62,34.79,22,12,14,SUP-007

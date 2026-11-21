@@ -1,0 +1,36 @@
+.stApp {
+    background-color: #0B192C;
+    color: #F8FAFC;
+}
+[data-testid="stSidebar"] {
+    background-color: #0F233D;
+    border-right: 1px solid #1E3A5F;
+}
+.kpi-card {
+    background: linear-gradient(135deg, #112240 0%, #162E52 100%);
+    border: 1px solid #1E3A5F;
+    border-left: 4px solid #1F6FEB;
+    border-radius: 10px;
+    padding: 14px 18px;
+    margin-bottom: 12px;
+}
+.kpi-label {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #94A3B8;
+    margin-bottom: 4px;
+}
+.kpi-value {
+    font-size: 1.55rem;
+    font-weight: 700;
+    color: #F8FAFC;
+}
+.kpi-sub {
+    font-size: 0.75rem;
+    color: #38BDF8;
+    margin-top: 2px;
+}
+h1, h2, h3 {
+    color: #F8FAFC !important;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Inventory Analytics Navy Blue Theme",
+  "dataColors": [
+    "#1F6FEB",
+    "#0EA5E9",
+    "#10B981",
+    "#F59E0B",
+    "#EF4444",
+    "#8B5CF6",
+    "#14B8A6",
+    "#64748B"
+  ],
+  "background": "#0B192C",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#1F6FEB",
+  "good": "#10B981",
+  "neutral": "#F59E0B",
+  "bad": "#EF4444",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#112240" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#1E3A5F" } }, "radius": 8 }],
+        "title": [{ "fontColor": { "solid": { "color": "#F8FAFC" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 13 }]
+      }
+    }
+  }
+}

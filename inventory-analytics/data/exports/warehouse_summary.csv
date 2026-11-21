@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,region,warehouse_capacity,warehouse_type,total_stock_units,inventory_value,sku_count,stockout_skus,units_sold,total_revenue,total_profit,capacity_utilization_pct
+WH-004,Southern Distribution,Dallas,South,95000,Distribution Center,19885,1763756.26,500,50,37742,4948083.09,1609894.14,20.93
+WH-001,North Central Fulfillment,Chicago,Midwest,120000,Fulfillment Center,19151,1707526.38,500,97,58601,7985497.65,2569122.83,15.96
+WH-003,West Coast Gateway,Ontario,West,110000,Regional Hub,19444,1705872.27,500,72,52354,7187743.11,2339047.28,17.68
+WH-002,East Coast Mega Hub,Newark,Northeast,145000,Fulfillment Center,18761,1686648.47,500,95,65232,8834561.49,2860521.5,12.94
+WH-005,Southeast Regional Depot,Atlanta,Southeast,85000,Distribution Center,17182,1539220.56,500,36,21592,2994245.63,973701.15,20.21

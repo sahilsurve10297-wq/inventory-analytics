@@ -1,0 +1,31 @@
+supplier_id,supplier_name,supplier_region,supplier_rating,average_delivery_days,supplier_status
+SUP-001,Apex Logistics,East Asia,4.85,6,Preferred
+SUP-002,Global Industries,Europe,4.89,5,Preferred
+SUP-003,Prime Distribution,South Asia,4.07,4,Preferred
+SUP-004,Summit Imports,Latin America,4.94,4,Preferred
+SUP-005,Vertex Partners,North America,4.84,6,Preferred
+SUP-006,Pacific Supply Co.,East Asia,4.56,7,Preferred
+SUP-007,Atlantic Logistics,Europe,4.05,11,Active
+SUP-008,Pioneer Industries,South Asia,4.53,9,Active
+SUP-009,Horizon Distribution,Latin America,4.24,10,Active
+SUP-010,Sterling Imports,North America,4.04,13,Active
+SUP-011,Atlas Partners,East Asia,3.83,7,Active
+SUP-012,Vanguard Supply Co.,Europe,4.07,11,Active
+SUP-013,United Logistics,South Asia,4.43,9,Active
+SUP-014,Metro Industries,Latin America,4.36,12,Active
+SUP-015,Dynamic Distribution,North America,3.95,7,Active
+SUP-016,Crest Imports,East Asia,4.49,14,Active
+SUP-017,Beacon Partners,Europe,4.38,13,Active
+SUP-018,Harbor Supply Co.,South Asia,4.07,8,Active
+SUP-019,Meridian Logistics,Latin America,3.64,11,Active
+SUP-020,Keystone Industries,North America,4.28,8,Active
+SUP-021,Cascade Distribution,East Asia,4.34,9,Active
+SUP-022,Liberty Imports,Europe,4.07,14,Active
+SUP-023,Omega Partners,South Asia,3.97,7,Active
+SUP-024,Quantum Supply Co.,Latin America,3.79,10,Active
+SUP-025,Zenith Logistics,North America,2.7,20,Active
+SUP-026,Crown Industries,East Asia,2.78,18,Active
+SUP-027,Bridge Distribution,Europe,3.14,23,Active
+SUP-028,Vector Imports,South Asia,3.27,18,Active
+SUP-029,Nexus Partners,Latin America,3.16,14,On Hold
+SUP-030,Evergreen Supply Co.,North America,3.27,17,On Hold

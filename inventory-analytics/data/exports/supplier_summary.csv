@@ -1,0 +1,31 @@
+supplier_id,supplier_name,supplier_region,supplier_rating,average_delivery_days,supplier_status,total_delivered_pos,on_time_pos,delayed_pos,avg_actual_lead_days,avg_delay_days,total_purchase_spend,total_units_received,on_time_delivery_rate_pct
+SUP-016,Crest Imports,East Asia,4.49,14,Active,353,306,47,13.34,-0.88,893053.69,12166,86.69
+SUP-022,Liberty Imports,Europe,4.07,14,Active,450,380,70,14.05,-0.71,1024721.67,14990,84.44
+SUP-010,Sterling Imports,North America,4.04,13,Active,288,242,46,12.83,-0.64,997842.36,11044,84.03
+SUP-017,Beacon Partners,Europe,4.38,13,Active,229,189,40,12.57,-0.37,1155744.63,8483,82.53
+SUP-014,Metro Industries,Latin America,4.36,12,Active,525,426,99,11.78,-0.22,1038848.04,17602,81.14
+SUP-019,Meridian Logistics,Latin America,3.64,11,Active,138,108,30,11.42,-0.05,491613.42,4783,78.26
+SUP-007,Atlantic Logistics,Europe,4.05,11,Active,262,205,57,11.02,0.06,1001193.69,8606,78.24
+SUP-024,Quantum Supply Co.,Latin America,3.79,10,Active,315,242,73,11.16,0.15,1330978.06,10008,76.83
+SUP-021,Cascade Distribution,East Asia,4.34,9,Active,302,226,76,10.49,0.28,901848.97,11066,74.83
+SUP-009,Horizon Distribution,Latin America,4.24,10,Active,362,270,92,11.57,0.43,1387803.93,12458,74.59
+SUP-013,United Logistics,South Asia,4.43,9,Active,316,228,88,10.14,0.67,997955.4,10997,72.15
+SUP-012,Vanguard Supply Co.,Europe,4.07,11,Active,202,144,58,11.42,0.47,884850.98,8863,71.29
+SUP-020,Keystone Industries,North America,4.28,8,Active,358,254,104,9.66,0.74,938854.77,11910,70.95
+SUP-008,Pioneer Industries,South Asia,4.53,9,Active,452,320,132,10.46,0.69,1288029.42,16499,70.8
+SUP-018,Harbor Supply Co.,South Asia,4.07,8,Active,299,207,92,8.6,0.65,961632.84,10439,69.23
+SUP-006,Pacific Supply Co.,East Asia,4.56,7,Preferred,204,139,65,8.0,1.1,690484.54,8379,68.14
+SUP-001,Apex Logistics,East Asia,4.85,6,Preferred,303,204,99,7.9,1.36,984996.39,10489,67.33
+SUP-011,Atlas Partners,East Asia,3.83,7,Active,338,223,115,8.53,1.42,884541.55,11584,65.98
+SUP-023,Omega Partners,South Asia,3.97,7,Active,412,269,143,8.64,1.29,1159170.0,14594,65.29
+SUP-015,Dynamic Distribution,North America,3.95,7,Active,331,216,115,9.46,1.19,1340365.83,14157,65.26
+SUP-004,Summit Imports,Latin America,4.94,4,Preferred,274,178,96,6.09,1.83,1088659.21,10015,64.96
+SUP-005,Vertex Partners,North America,4.84,6,Preferred,303,193,110,7.93,1.7,1031984.43,11400,63.7
+SUP-002,Global Industries,Europe,4.89,5,Preferred,276,171,105,7.3,1.75,886313.83,10653,61.96
+SUP-003,Prime Distribution,South Asia,4.07,4,Preferred,375,227,148,6.53,2.26,1380839.29,13558,60.53
+SUP-026,Crown Industries,East Asia,2.78,18,Active,214,121,93,19.43,0.32,618750.77,8620,56.54
+SUP-027,Bridge Distribution,Europe,3.14,23,Active,291,161,130,23.28,0.25,944199.49,9886,55.33
+SUP-030,Evergreen Supply Co.,North America,3.27,17,On Hold,302,166,136,18.94,1.22,1368647.9,10679,54.97
+SUP-025,Zenith Logistics,North America,2.7,20,Active,223,122,101,21.23,0.49,645654.76,7612,54.71
+SUP-028,Vector Imports,South Asia,3.27,18,Active,215,115,100,20.6,0.97,622658.5,7254,53.49
+SUP-029,Nexus Partners,Latin America,3.16,14,On Hold,264,130,134,16.58,1.56,878615.98,9069,49.24
